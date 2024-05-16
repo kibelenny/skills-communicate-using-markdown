@@ -8,3 +8,8 @@
 npm install
 nodemon serve app.ts
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Create website
